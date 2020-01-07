@@ -5,10 +5,12 @@ import "./styles.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>My Favorite Food</h1>
+    <div className="">
+      <h1>My Favourite Food</h1>
       <ul>
         <li>Spagetti</li>
+        <li>Lasagne</li>
+        <li>Capirucha</li>
       </ul>
     </div>
   );
