@@ -3,7 +3,9 @@
   text-align: center;
 }
 .heading {
-  color: red;
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
 }
 .food-image {
   height: 100px;
