@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+.heading {
+  color: red;
+}
+.food-image {
+  height: 100px;
+  width: 100px;
+}
