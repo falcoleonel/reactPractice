@@ -1,6 +1,6 @@
 import React from "react";
-import Heading from "./Heading";
-import List from "./List";
+import Heading from "./components/Heading";
+import List from "./components/List";
 
 function App() {
   return (
